@@ -65,4 +65,5 @@ jobs:
         id: deploy-to-webapp
         with:
           app-name: 'myapp-thangnt16'
+          slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_766A650ED5ED4CACBEC31B2591F4A866 }}
