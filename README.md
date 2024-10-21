@@ -62,17 +62,13 @@ Port: 443
 ## Enhancements
 
 To improve the project in the future, we can approve some key below:
+* Create UI
 * Use Containerization
-* Implement Microservices
-* Automated Testing
-* Caching
-* Load Balancing
-* Security Best Practices
-* Vulnerability Scanning
+* Implement more function
 
 ## Demo 
 
-Link demo: N/A
+Link demo: [N/A](https://youtu.be/1Y4KSmwN-5E)
 
 ![image](https://github.com/user-attachments/assets/feb20538-2443-4b28-ab33-70315b9a6cdd)
 
