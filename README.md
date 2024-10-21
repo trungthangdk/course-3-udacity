@@ -32,12 +32,15 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 
 * Running Azure App Service from Azure Pipelines automatic deployment and successful deploy of the project in Azure Pipelines. 
   
-  <img width="1393" alt="image" src="https://github.com/user-attachments/assets/d3b99460-2f95-467d-ad7d-d68ac44a07b8">
+  <img width="1393" alt="image" src="https://github.com/user-attachments/assets/e594ed8e-c597-47c8-ab1e-bb713892b455">
+<img width="1391" alt="image" src="https://github.com/user-attachments/assets/8cb75b4e-5c91-4ff3-9890-d8582df7379f">
+
 
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.
 
-  ![make_prediction](https://github.com/user-attachments/assets/2a33a345-a228-4c52-b603-5ad7b290b058)
+  ![image](https://github.com/user-attachments/assets/c2cdb3d2-9e73-4dac-b86b-e80835d6f863)
+
   
 The output should look similar to this:
   ![image](https://github.com/user-attachments/assets/ca16a8db-5fa7-4bdf-988f-9555d7e8c9d2)
@@ -51,8 +54,13 @@ Port: 443
 
 * Output of streamed log files from deployed application
 
-
-
+![image](https://github.com/user-attachments/assets/c9d4cd8b-1d56-4494-98e9-0946a1ba202b)
+![image](https://github.com/user-attachments/assets/18a9c53d-bb60-45e8-82b2-8eae159c92e7)
+![image](https://github.com/user-attachments/assets/73927a71-0c9d-4a33-952b-45139ea62701)
+![image](https://github.com/user-attachments/assets/157bb5fd-040c-4e09-b544-6dac67739ec8)
+![image](https://github.com/user-attachments/assets/08a432bf-7586-4b90-a94b-ab89a26dc946)
+![image](https://github.com/user-attachments/assets/7ba67b1b-0389-4ebf-a16b-f3156d5734be)
+![image](https://github.com/user-attachments/assets/97e4fb4a-9797-4578-b85e-561bc6a9bb39)
 
 ## Enhancements
 
