@@ -15,7 +15,7 @@ variables:
   webAppName: 'myapp-thangnt16'
 
   # Environment name
-  environmentName: 'flask-ml-service'
+  environmentName: 'myapp-thangnt16'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
@@ -66,7 +66,7 @@ stages:
         deploy:
           steps:
           - task: AzureWebApp@1
-            displayName: 'Deploy Azure Web App : flask-ml-service'
+            displayName: 'Deploy Azure Web App : myapp-thangnt16'
             inputs:
               azureSubscription: $(azureServiceConnectionId)
               appName: $(webAppName)
