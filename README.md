@@ -5,39 +5,43 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 
 ## Project Plan
 
-* A link to a Trello board for the project: https://trello.com/b/rDv9z2TX/software-development-project
-* A link to a spreadsheet that includes the original and final project plan: https://docs.google.com/spreadsheets/d/1CB27icAbr3qya7oZXqTplgqL7MNvgXdP/edit?usp=sharing&ouid=106957848057168331648&rtpof=true&sd=true
+* A link to a Trello board for the project: https://trello.com/b/pJFisPY0/software-development-project
+* A link to a spreadsheet that includes the original and final project plan: https://docs.google.com/spreadsheets/d/1QSOcjyTG86EBITK6XWIugyxb4SanNuOdba1365I_SVo/edit?usp=sharing
 
 ## Instructions
 
 * Architectural Diagram
   
-  ![image](https://github.com/user-attachments/assets/ea944301-d8c3-4dcc-9f75-620915093524)
+  ![image](https://github.com/user-attachments/assets/7b17e92b-c2b4-4344-a51e-5d2418b814f1)
 
 * Project cloned into Azure Cloud Shell
   
-  ![image](https://github.com/user-attachments/assets/f96484b0-ea4c-4501-b3e7-1ceac780eb54)
+  ![clone-git](https://github.com/user-attachments/assets/603f19b7-71f4-4425-b390-b4753fe99908)
+
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
   
-  ![image](https://github.com/user-attachments/assets/7ddf5e72-8b0b-4b0d-8645-c5ef7f317b03)
+ ![image](https://github.com/user-attachments/assets/a6bb919f-e420-406c-9324-593d75d7c31e)
+
 
 * Output of a test run
 
-  ![image](https://github.com/user-attachments/assets/e97a3d52-3c01-40a8-99a6-3939b8604016)
+  ![image](https://github.com/user-attachments/assets/3a7dca9a-569c-4567-914b-cd48f00611ee)
+![image](https://github.com/user-attachments/assets/a2f9ac0c-6428-482d-add6-c65109131241)
 
-  ![image](https://github.com/user-attachments/assets/ef8331cd-90a2-4d09-98c1-26c77e4ec798)
 
 * Running Azure App Service from Azure Pipelines automatic deployment and successful deploy of the project in Azure Pipelines. 
   
-  ![image](https://github.com/user-attachments/assets/9466e4fa-fa61-4fbf-8485-3452fa5cb8c7)
+  <img width="1393" alt="image" src="https://github.com/user-attachments/assets/d3b99460-2f95-467d-ad7d-d68ac44a07b8">
+
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.
 
   ![make_prediction](https://github.com/user-attachments/assets/2a33a345-a228-4c52-b603-5ad7b290b058)
   
 The output should look similar to this:
-  ![image](https://github.com/user-attachments/assets/6068e1c8-646b-465f-8c3c-fa5445e062c8)
+  ![image](https://github.com/user-attachments/assets/ca16a8db-5fa7-4bdf-988f-9555d7e8c9d2)
+
 
 ```bash
 (.udacity-devops) odl_user [ ~/project-course-3-udacity ]$ ./make_predict_azure_app.sh 
@@ -47,8 +51,7 @@ Port: 443
 
 * Output of streamed log files from deployed application
 
-  ![stream log part 1](https://github.com/user-attachments/assets/ba553bad-0df0-410e-b8e1-7105b24a3573)
-  ![stream log part 2](https://github.com/user-attachments/assets/5a1d2db8-7c8a-46e9-8693-e7ff1a0208e2)
+
 
 
 ## Enhancements
@@ -66,6 +69,6 @@ To improve the project in the future, we can approve some key below:
 
 Link demo: N/A
 
-![example workflow]![image](https://github.com/user-attachments/assets/feb20538-2443-4b28-ab33-70315b9a6cdd)
+![image](https://github.com/user-attachments/assets/feb20538-2443-4b28-ab33-70315b9a6cdd)
 
 
