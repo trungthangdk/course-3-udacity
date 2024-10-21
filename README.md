@@ -33,9 +33,6 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 * Running Azure App Service from Azure Pipelines automatic deployment and successful deploy of the project in Azure Pipelines. 
   
   <img width="1393" alt="image" src="https://github.com/user-attachments/assets/e594ed8e-c597-47c8-ab1e-bb713892b455">
-<img width="1391" alt="image" src="https://github.com/user-attachments/assets/8cb75b4e-5c91-4ff3-9890-d8582df7379f">
-
-
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.
 
