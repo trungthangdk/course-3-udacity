@@ -66,5 +66,6 @@ To improve the project in the future, we can approve some key below:
 
 Link demo: N/A
 
-![example workflow](https://github.com/trungthangdk/course-3-udacity/actions/workflows/main_myapp-thangnt16.yml/badge.svg)
+![example workflow]![image](https://github.com/user-attachments/assets/feb20538-2443-4b28-ab33-70315b9a6cdd)
+
 
