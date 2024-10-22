@@ -1,4 +1,4 @@
-![example workflow](https://github.com/trungthangdk/course-3-udacity/workflows/pythonapp.yml/badge.svg)
+![example workflow](https://github.com/trungthangdk/course-3-udacity/actions/workflows/pythonapp.yml/badge.svg)
 # project-course-3-udacity
 # Overview
 
