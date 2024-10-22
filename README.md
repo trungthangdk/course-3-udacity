@@ -59,9 +59,9 @@ To improve the project in the future, we can approve some key below:
 
 ## Demo 
 
-Demo Azure cloud shell: https://youtu.be/TEigyXAMWi8
-Demo Github action: https://youtu.be/mle2cOn0uOI
-Demo Continuous Delivery: https://youtu.be/QO-j-4cszAc
+* Demo Azure cloud shell: https://youtu.be/TEigyXAMWi8
+* Demo Github action: https://youtu.be/mle2cOn0uOI
+* Demo Continuous Delivery: https://youtu.be/QO-j-4cszAc
 
 ![example workflow](https://github.com/trungthangdk/course-3-udacity/actions/workflows/pythonapp.yml/badge.svg)
 ![image](https://github.com/user-attachments/assets/fdb0f266-f514-4a02-bc44-1b0a4e3fc698)
