@@ -21,8 +21,8 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
   
- ![image](https://github.com/user-attachments/assets/a6bb919f-e420-406c-9324-593d75d7c31e)
-
+ ![image](https://github.com/user-attachments/assets/739368ab-397f-4f72-bb79-43bd5a4ea78f)
+![image](https://github.com/user-attachments/assets/e5d20a87-971f-4595-bf04-dc5593cf9f70)
 
 * Output of a test run
 
