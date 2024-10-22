@@ -26,11 +26,12 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 
 * Running Azure App Service from Azure Pipelines automatic deployment and successful deploy of the project in Azure Pipelines. 
   
-  <img width="1393" alt="image" src="https://github.com/user-attachments/assets/e594ed8e-c597-47c8-ab1e-bb713892b455">
+  ![image](https://github.com/user-attachments/assets/e4afb01c-344d-4255-add1-07b742f8df45)
+
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.
 
-  ![image](https://github.com/user-attachments/assets/c2cdb3d2-9e73-4dac-b86b-e80835d6f863)
+ ![image](https://github.com/user-attachments/assets/17aa0952-5ed0-4f11-ba68-271c79e30943)
 
   
 The output should look similar to this:
@@ -38,20 +39,16 @@ The output should look similar to this:
 
 
 ```bash
-(.udacity-devops) odl_user [ ~/project-course-3-udacity ]$ ./make_predict_azure_app.sh 
+odl_user [ ~/course-3-udacity ]$ ./make_predict_azure_app.sh
 Port: 443
-{"prediction":[2.431574790057212]}
+{"prediction - thangnt16 - test":[2.431574790057212]}
 ```
 
 * Output of streamed log files from deployed application
-
-![image](https://github.com/user-attachments/assets/c9d4cd8b-1d56-4494-98e9-0946a1ba202b)
-![image](https://github.com/user-attachments/assets/18a9c53d-bb60-45e8-82b2-8eae159c92e7)
-![image](https://github.com/user-attachments/assets/73927a71-0c9d-4a33-952b-45139ea62701)
-![image](https://github.com/user-attachments/assets/157bb5fd-040c-4e09-b544-6dac67739ec8)
-![image](https://github.com/user-attachments/assets/08a432bf-7586-4b90-a94b-ab89a26dc946)
-![image](https://github.com/user-attachments/assets/7ba67b1b-0389-4ebf-a16b-f3156d5734be)
-![image](https://github.com/user-attachments/assets/97e4fb4a-9797-4578-b85e-561bc6a9bb39)
+![image](https://github.com/user-attachments/assets/e1bcf2c3-c2fb-4e65-bf32-373241211210)
+![image](https://github.com/user-attachments/assets/f2fc204d-fbbe-4453-a194-0f69c163526c)
+![image](https://github.com/user-attachments/assets/9933af7c-f845-499a-afda-b47c683c718c)
+![image](https://github.com/user-attachments/assets/b6776847-5480-4c73-8c9e-11fe5268c211)
 
 ## Enhancements
 
@@ -62,7 +59,9 @@ To improve the project in the future, we can approve some key below:
 
 ## Demo 
 
-Link demo: https://youtu.be/1Y4KSmwN-5E
+Demo Azure cloud shell: https://youtu.be/TEigyXAMWi8
+Demo Github action: https://youtu.be/mle2cOn0uOI
+Demo Continuous Delivery: https://youtu.be/QO-j-4cszAc
 
 ![example workflow](https://github.com/trungthangdk/course-3-udacity/actions/workflows/pythonapp.yml/badge.svg)
 ![image](https://github.com/user-attachments/assets/fdb0f266-f514-4a02-bc44-1b0a4e3fc698)
