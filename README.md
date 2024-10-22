@@ -1,4 +1,3 @@
-![example workflow](https://github.com/trungthangdk/course-3-udacity/actions/workflows/pythonapp.yml/badge.svg)
 # project-course-3-udacity
 # Overview
 
@@ -65,6 +64,8 @@ To improve the project in the future, we can approve some key below:
 
 Link demo: https://youtu.be/1Y4KSmwN-5E
 
-![image](https://github.com/user-attachments/assets/feb20538-2443-4b28-ab33-70315b9a6cdd)
+![example workflow](https://github.com/trungthangdk/course-3-udacity/actions/workflows/pythonapp.yml/badge.svg)
+![image](https://github.com/user-attachments/assets/fdb0f266-f514-4a02-bc44-1b0a4e3fc698)
+
 
 
