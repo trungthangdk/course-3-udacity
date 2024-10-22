@@ -2,7 +2,7 @@
 # project-course-3-udacity
 # Overview
 
-Build a Github repository from scatch and create a scaffolding in performing both Continuous Integration and Continuous Delevery.
+Build a Github repository from scatch and create a scaffolding in performing both Continuous Integration and Continuous Delevery .
 
 ## Project Plan
 
