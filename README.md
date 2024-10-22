@@ -17,8 +17,7 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 
 * Project cloned into Azure Cloud Shell
   
-  ![clone-git](https://github.com/user-attachments/assets/603f19b7-71f4-4425-b390-b4753fe99908)
-
+  ![image](https://github.com/user-attachments/assets/78f92297-a296-4069-9fce-0371d1753ea1)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
   
