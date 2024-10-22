@@ -1,4 +1,4 @@
-![example branch parameter](https://github.com/trungthangdk/course-3-udacity/actions/workflows/pythonapp.yml/badge.svg?branch=main)
+![example workflow](https://github.com/trungthangdk/course-3-udacity/actions/workflows/pythonapp.yml/badge.svg)
 # project-course-3-udacity
 # Overview
 
