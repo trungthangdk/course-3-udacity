@@ -22,13 +22,8 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
   
  ![image](https://github.com/user-attachments/assets/739368ab-397f-4f72-bb79-43bd5a4ea78f)
-![image](https://github.com/user-attachments/assets/e5d20a87-971f-4595-bf04-dc5593cf9f70)
-
 * Output of a test run
-
-  ![image](https://github.com/user-attachments/assets/3a7dca9a-569c-4567-914b-cd48f00611ee)
-![image](https://github.com/user-attachments/assets/a2f9ac0c-6428-482d-add6-c65109131241)
-
+![image](https://github.com/user-attachments/assets/e5d20a87-971f-4595-bf04-dc5593cf9f70)
 
 * Running Azure App Service from Azure Pipelines automatic deployment and successful deploy of the project in Azure Pipelines. 
   
