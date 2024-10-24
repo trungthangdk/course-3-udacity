@@ -48,10 +48,9 @@ Port: 443
 ```
 
 * Output of streamed log files from deployed application
-![image](https://github.com/user-attachments/assets/e1bcf2c3-c2fb-4e65-bf32-373241211210)
-![image](https://github.com/user-attachments/assets/f2fc204d-fbbe-4453-a194-0f69c163526c)
-![image](https://github.com/user-attachments/assets/9933af7c-f845-499a-afda-b47c683c718c)
-![image](https://github.com/user-attachments/assets/b6776847-5480-4c73-8c9e-11fe5268c211)
+<img width="1391" alt="image" src="https://github.com/user-attachments/assets/a285baac-318f-4a87-80fe-388af505e4ee">
+<img width="1394" alt="image" src="https://github.com/user-attachments/assets/f420fb64-db9f-4a8a-96a5-f7556d819301">
+
 
 ## Enhancements
 
@@ -64,6 +63,7 @@ To improve the project in the future, we can approve some key below:
 
 
 ![example workflow](https://github.com/trungthangdk/course-3-udacity/actions/workflows/pythonapp.yml/badge.svg)
+<img width="1392" alt="image" src="https://github.com/user-attachments/assets/382b1c92-7483-43da-b6dd-de10ca8b5ed8">
 
 
 
