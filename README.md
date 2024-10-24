@@ -16,13 +16,16 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 
 * Project cloned into Azure Cloud Shell
   
-  ![image](https://github.com/user-attachments/assets/78f92297-a296-4069-9fce-0371d1753ea1)
+  <img width="1393" alt="image" src="https://github.com/user-attachments/assets/0f09b503-70e3-40b9-a25f-34720a14b504">
+
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
   
- ![image](https://github.com/user-attachments/assets/739368ab-397f-4f72-bb79-43bd5a4ea78f)
+ <img width="1395" alt="image" src="https://github.com/user-attachments/assets/3275288f-4346-4793-b73b-25c23e26540a">
+
 * Output of a test run
-![image](https://github.com/user-attachments/assets/e5d20a87-971f-4595-bf04-dc5593cf9f70)
+<img width="1393" alt="image" src="https://github.com/user-attachments/assets/ac8ce327-0b01-42e0-8658-b4f9617b636e">
+
 
 * Running Azure App Service from Azure Pipelines automatic deployment and successful deploy of the project in Azure Pipelines. 
   
