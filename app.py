@@ -22,7 +22,7 @@ def scale(payload):
 
 @app.route("/")
 def home():
-    html = "<h3>ThangNT16 - Lab 3 Udacity</h3>"
+    html = "<h3>Sklearn Prediction Home</h3>"
     return html
 
 # Log out the prediction value
