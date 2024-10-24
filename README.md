@@ -34,11 +34,11 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.
 
- ![image](https://github.com/user-attachments/assets/17aa0952-5ed0-4f11-ba68-271c79e30943)
+<img width="1394" alt="image" src="https://github.com/user-attachments/assets/b7e7b7bb-02a2-473c-a24a-d9b423e243d1">
 
   
 The output should look similar to this:
-  ![image](https://github.com/user-attachments/assets/ca16a8db-5fa7-4bdf-988f-9555d7e8c9d2)
+<img width="1393" alt="image" src="https://github.com/user-attachments/assets/79c67e42-ca5c-479b-93d8-001cf3203bca">
 
 
 ```bash
@@ -62,12 +62,9 @@ To improve the project in the future, we can approve some key below:
 
 ## Demo 
 
-* Demo Azure cloud shell: https://youtu.be/TEigyXAMWi8
-* Demo Github action: https://youtu.be/mle2cOn0uOI
-* Demo Continuous Delivery: https://youtu.be/QO-j-4cszAc
 
 ![example workflow](https://github.com/trungthangdk/course-3-udacity/actions/workflows/pythonapp.yml/badge.svg)
-![image](https://github.com/user-attachments/assets/fdb0f266-f514-4a02-bc44-1b0a4e3fc698)
+
 
 
 
