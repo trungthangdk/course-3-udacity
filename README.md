@@ -25,6 +25,7 @@ Build a Github repository from scatch and create a scaffolding in performing bot
 
 * Output of a test run
 <img width="1393" alt="image" src="https://github.com/user-attachments/assets/ac8ce327-0b01-42e0-8658-b4f9617b636e">
+<img width="1392" alt="image" src="https://github.com/user-attachments/assets/d7937298-c8fd-44cd-a59f-95610e3e73b3">
 
 
 * Running Azure App Service from Azure Pipelines automatic deployment and successful deploy of the project in Azure Pipelines. 
